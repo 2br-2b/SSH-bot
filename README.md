@@ -6,3 +6,7 @@ ACCOUNT_ID = 0000000000000000000 #your ID
 ```
 
 To get a token, see https://www.writebots.com/discord-bot-token/
+
+Next, run in the command line `pip install -r requirements.txt` to install the requirements.
+
+Finally, run `python3 main.py` to run the bot!
